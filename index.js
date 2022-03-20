@@ -97,7 +97,7 @@ function replaceUrls(text) {
 	}
 }
 
-Typer.speed=6;
+Typer.speed=4;
 Typer.file="Ali-Joon.txt";
 Typer.init();
  
