@@ -1,31 +1,31 @@
-<div>----------------------------------------------------</div>
-<div>ATLASSIAN OS v0.47</div>
-<div>----------------------------------------------------</div>
-<div class="de1">&nbsp;</div>
-<div class="de1">
-<div class="de1">Press [ESC] to exit</div>
-<div class="de1">&nbsp;</div>
-<div class="de1">\\Root\ATL-srg&gt;Ali-Joon</div>
-<div class="de1">&nbsp;</div>
-<div class="de1">Enter Your Username: a@a</div>
-<div class="de1">Enter Your Password: *********</div>
-<div class="de1">WWVzIEknbSAxOSBhcyBvZiBub3c</div>
-<div class="de1">Login session was successful. Welcome, Ali Joon!</div>
-<div class="de1">Type [cmds] to see all of the available commands.</div>
-<div class="de1">&nbsp;</div>
-<div class="de1">\\Root\ATL-srg\ali-joon&gt; Info.txt</div>
-<div class="de1">Reciving submited information...</div>
-<div class="de1">YmFuaSBhZGFtIGF6YXllIHlla2RpZ2FyYW5kLCBrZSBkYXIgYWZhcmluZXNoIHplIHllayBnb2hhcmFuZApjaG8gb3p2aSBiZSBkYXJkIGF2YXJhZCByb296ZWdhciwgZGVnYXIgb3p2IGhhcmEgbmFtYW5hZCBnaGFyYXI</div>
-<div class="de1">Hi, My name is Ali. I'm just a regular person on the internet doing his stuff. You can just find me on Discord, I'm not active in other places.</div>
-<div class="de1">Contributing to community projects is my passion, especially localizing and translating. You give my Crowdin Profile a visit to see a list of my contribution.</div>
-<div class="de1">I like to give a hand to people who have the potential to get somewhere but need a little bit of help. Two of the examples of them are a YouTuber Lyon S.P.D &amp; the Crafty team for their website.</div>
-<div class="de1">Needless to say, your boy is an average Minecraft enjoyer and a fellow Engineer in cp_dustbowl. Just take a look at my Steam profile!</div>
-<div class="de1">Want to know me more? then let's be friends!</div>
-<div class="de1">Ronald, it's been 5 months and you still owe me a premium...</div>
-<div class="de1">&nbsp;</div>
-<div class="de1">\\Root\ATL-srg\ali-joon&gt; exit</div>
-<div class="de1">Successfully logged out! Hope you have a fantastic day on Atlassian!</div>
-<div class="de1">&nbsp;</div>
-<div class="de1">\\Root\ATL-srg&gt;&nbsp;</div>
-<div class="de1">&nbsp;</div>
-</div>
+<p>----------------------------------------------------</p>
+<p>ATLASSIAN OS v0.47</p>
+<p>----------------------------------------------------</p>
+<p>&nbsp;</p>
+<p>
+<p>Press [ESC] to exit</p>
+<p>&nbsp;</p>
+<p>\\Root\ATL-srg&gt;Ali-Joon</p>
+<p>&nbsp;</p>
+<p>Enter Your Username: a@a</p>
+<p>Enter Your Password: *********</p>
+<p>WWVzIEknbSAxOSBhcyBvZiBub3c</p>
+<p>Login session was successful. Welcome, Ali Joon!</p>
+<p>Type [cmds] to see all of the available commands.</p>
+<p>&nbsp;</p>
+<p>\\Root\ATL-srg\ali-joon&gt; Info.txt</p>
+<p>Reciving submited information...</p>
+<p>YmFuaSBhZGFtIGF6YXllIHlla2RpZ2FyYW5kLCBrZSBkYXIgYWZhcmluZXNoIHplIHllayBnb2hhcmFuZApjaG8gb3p2aSBiZSBkYXJkIGF2YXJhZCByb296ZWdhciwgZGVnYXIgb3p2IGhhcmEgbmFtYW5hZCBnaGFyYXI</p>
+<p>Hi, My name is Ali. I'm just a regular person on the internet doing his stuff. You can just find me on Discord, I'm not active in other places.</p>
+<p>Contributing to community projects is my passion, especially localizing and translating. You give my Crowdin Profile a visit to see a list of my contribution.</p>
+<p>I like to give a hand to people who have the potential to get somewhere but need a little bit of help. Two of the examples of them are a YouTuber Lyon S.P.D &amp; the Crafty team for their website.</p>
+<p>Needless to say, your boy is an average Minecraft enjoyer and a fellow Engineer in cp_dustbowl. Just take a look at my Steam profile!</p>
+<p>Want to know me more? then let's be friends!</p>
+<p>Ronald, it's been 5 months and you still owe me a premium...</p>
+<p>&nbsp;</p>
+<p>\\Root\ATL-srg\ali-joon&gt; exit</p>
+<p>Successfully logged out! Hope you have a fantastic day on Atlassian!</p>
+<p>&nbsp;</p>
+<p>\\Root\ATL-srg&gt;&nbsp;</p>
+<p>&nbsp;</p>
+</p>
