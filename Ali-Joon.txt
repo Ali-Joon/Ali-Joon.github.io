@@ -18,11 +18,11 @@ Reciving submited information...
 Hi, My name is Ali. I'm just a regular person on the internet doing his stuff. You can just find me on <span id="c">Discord</span>, I'm not active in other places.
 Contributing to community projects is my passion, especially localizing and translating. You give my <span id="c">Crowdin profile</span> a visit to see a list of my contribution.
 I like to give a hand to people who have the potential to get somewhere but need a little bit of help. Two of the examples of them are a YouTuber <span id="c">Lyon S.P.D</span> &amp; the <span id="c">Crafty team</span> for their website.
-Needless to say, your boy is an average Minecraft enjoyer and a fellow Engineer in cp_dustbowl. Just take a look at <span id="c">my Steam profile!</span>
+Needless to say, your boy is an average Minecraft enjoyer and a fellow Engi-main in cp_dustbowl. Just take a look at <span id="c">my Steam profile!</span>
 Want to know me more? then let's be friends!
-<span style="color: transparent">Ronald, it's been 5 months and you still owe me a premium...</span>
+<span style="color: transparent">Ronald, I still want that premium :(</span>
 &nbsp;
-<span id="a">\\Root\ATL-srg\ali-joon&gt;</span><span id="b"> exit</span>
-Successfully logged out! Hope you have a fantastic day on Atlassian!
+<span id="a">\\Root\ATL-srg\ali-joon&gt;</span><span id="b"> logout</span>
+Successfully logged out! Hope you have a wonderful day on Atlassian!
 &nbsp;
 <span id="a">\\Root\ATL-srg&gt;&nbsp;</span>
