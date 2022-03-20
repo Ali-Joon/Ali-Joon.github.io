@@ -5,27 +5,25 @@
 <p>
 <p>Press [ESC] to exit</p>
 <p>&nbsp;</p>
-<p>\\Root\ATL-srg&gt;Ali-Joon</p>
+<p><span id="a">\\Root\ATL-srg&gt;</span><span id="b">Ali-Joon</span></p>
 <p>&nbsp;</p>
 <p>Enter Your Username: a@a</p>
 <p>Enter Your Password: *********</p>
-<p>WWVzIEknbSAxOSBhcyBvZiBub3c</p>
-<p>Login session was successful. Welcome, Ali Joon!</p>
+<p><span style="color: transparent">WWVzIEknbSAxOSBhcyBvZiBub3c</span></p>
+<p>Login session was successful. <span id="k">Welcome, Ali Joon!</span></p>
 <p>Type [cmds] to see all of the available commands.</p>
 <p>&nbsp;</p>
-<p>\\Root\ATL-srg\ali-joon&gt; Info.txt</p>
+<p><span id="a">\\Root\ATL-srg\ali-joon&gt;</span><span id="b">Info.txt</span></p>
 <p>Reciving submited information...</p>
-<p>YmFuaSBhZGFtIGF6YXllIHlla2RpZ2FyYW5kLCBrZSBkYXIgYWZhcmluZXNoIHplIHllayBnb2hhcmFuZApjaG8gb3p2aSBiZSBkYXJkIGF2YXJhZCByb296ZWdhciwgZGVnYXIgb3p2IGhhcmEgbmFtYW5hZCBnaGFyYXI</p>
+<p><span style="color: transparent">YmFuaSBhZGFtIGF6YXllIHlla2RpZ2FyYW5kL CBrZSBkYXIgYWZhcmluZXNoIHplIHllayBnb2hhcmFuZAp jaG8gb3p2aSBiZSBkYXJkIGF2YXJhZCByb296ZWdhciwgZGVn YXIgb3p2IGhhcmEgbmFtYW5hZCBnaGFyYXI</span></p>
 <p>Hi, My name is Ali. I'm just a regular person on the internet doing his stuff. You can just find me on Discord, I'm not active in other places.</p>
 <p>Contributing to community projects is my passion, especially localizing and translating. You give my Crowdin Profile a visit to see a list of my contribution.</p>
 <p>I like to give a hand to people who have the potential to get somewhere but need a little bit of help. Two of the examples of them are a YouTuber Lyon S.P.D &amp; the Crafty team for their website.</p>
 <p>Needless to say, your boy is an average Minecraft enjoyer and a fellow Engineer in cp_dustbowl. Just take a look at my Steam profile!</p>
 <p>Want to know me more? then let's be friends!</p>
-<p>Ronald, it's been 5 months and you still owe me a premium...</p>
+<p><span style="color: transparent">Ronald, it's been 5 months and you still owe me a premium...</span></p>
 <p>&nbsp;</p>
-<p>\\Root\ATL-srg\ali-joon&gt; exit</p>
+<p><span id="a">\\Root\ATL-srg\ali-joon&gt;</span><span id="b">exit</span></p>
 <p>Successfully logged out! Hope you have a fantastic day on Atlassian!</p>
 <p>&nbsp;</p>
-<p>\\Root\ATL-srg&gt;&nbsp;</p>
-<p>&nbsp;</p>
-</p>
+<p><span id="a">\\Root\ATL-srg&gt;&nbsp;</span></p>
