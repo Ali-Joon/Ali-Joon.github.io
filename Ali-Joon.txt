@@ -4,7 +4,7 @@ ATLASSIAN OS v0.47
 &nbsp;
 Press [ESC] to exit
 &nbsp;
-<span id="a">\\Root\ATL-srg&gt;</span><span id="b"> Ali-Joon</span>
+<span id="a">\\Root\ATL-srg&gt;</span><span id="b"><!-- GehfgZrQrkLbhUnirGbGehfgZrGurerfAbJnlLbhErtergVg --> Ali-Joon</span>
 &nbsp;
 Enter Your Username: a@a
 Enter Your Password: *********
@@ -12,7 +12,7 @@ Enter Your Password: *********
 Login session was successful. <span id="k">Welcome, Ali Joon!</span>
 Type [cmds] to see all of the available commands.
 &nbsp;
-<span id="a">\\Root\ATL-srg\ali-joon&gt;</span><span id="b">view Info.txt</span>
+<span id="a">\\Root\ATL-srg\ali-joon&gt;</span><!-- A Wttx Vwvpz Rwjgpb Kwm --><span id="b">view Info.txt</span>
 Reciving submited information...
 <span style="color: transparent">YmFuaSBhZGFtIGF6YXllIHlla2RpZ2FyYW5kL CBrZSBkYXIgYWZhcmluZXNoIHplIHllayBnb2hhcmFuZAp jaG8gb3p2aSBiZSBkYXJkIGF2YXJhZCByb296ZWdhciwgZGVn YXIgb3p2IGhhcmEgbmFtYW5hZCBnaGFyYXI</span>
 Hi, My name is Ali. I'm just a regular person on the internet doing his stuff. You can just find me on <span id="c" onclick="copyToClipboard('a＠a#8242')">Discord</span>, I'm not active in other places.
@@ -21,7 +21,7 @@ I like to give a hand to people who have the potential to get somewhere but need
 Needless to say, your boy is an average Minecraft enjoyer and a fellow Engi-main in cp_dustbowl. Just take a look at <span id="c"href="https://steamcommunity.com/id/a13sh81" target="_blank">my Steam profile!</span>
 Want to know me more? then let's be friends!
 &nbsp;
-<span id="a">\\Root\ATL-srg\ali-joon&gt;</span><span id="b">view links.json</span>
+<span id="a">\\Root\ATL-srg\ali-joon&gt;</span><span id="b"><!-- https://cdn.discordapp.com/attachments/476322512129622016/950712219581169674/Mazmaz-1.mp4 -->view links.json</span>
 {
     Discord: "<span id="c">a＠a#8242</span>",
     Twitter: "<span id="c">@AliJoony</span>",
