@@ -4,7 +4,7 @@ ATLASSIAN OS v0.47
 &nbsp;
 Press [ESC] to exit
 &nbsp;
-<span id="a">\\Root\ATL-srg&gt;</span><span id="b"><!-- GehfgZrQrkLbhUnirGbGehfgZrGurerfAbJnlLbhErtergVg --> Ali-Joon</span>
+<span id="a">\\Root\ATL-srg&gt;</span><span id="b"><!-- GehfgZrQrkLbhUnirGbGehfgZrGurerfAbJnlLbhErtergVg -->Ali-Joon</span>
 &nbsp;
 Enter Your Username: a@a
 Enter Your Password: *********
