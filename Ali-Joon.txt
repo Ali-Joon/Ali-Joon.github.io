@@ -15,33 +15,32 @@ Type [cmds] to see all of the available commands.
 <span id="a">\\Root\ATL-srg\ali-joon&gt;</span><!-- A Wttx Vwvpz Rwjgpb Kwm --><span id="b">view Info.txt</span>
 Reciving submited information...
 <span style="color: transparent">YmFuaSBhZGFtIGF6YXllIHlla2RpZ2FyYW5kL CBrZSBkYXIgYWZhcmluZXNoIHplIHllayBnb2hhcmFuZAp jaG8gb3p2aSBiZSBkYXJkIGF2YXJhZCByb296ZWdhciwgZGVn YXIgb3p2IGhhcmEgbmFtYW5hZCBnaGFyYXI</span>
-Hi, My name is Ali. I'm just a regular person on the internet doing his stuff. You can just find me on <span id="c" onclick="copyToClipboard('a＠a#8242')">Discord</span>, I'm not active in other places.
-Contributing to community projects is my passion, especially localizing and translating. You give my <span id="c"><a href="https://crowdin.com/profile/FDg81" target="_blank">Crowdin profile</a></span> a visit to see a list of my contribution.
-I like to give a hand to people who have the potential to get somewhere but need a little bit of help. Two of the examples of them are a YouTuber <span id="c"><a href="https://www.youtube.com/channel/UCZPLMvQd-yMRMK-Q6AtvKfg" target="_blank">Lyon S.P.D</a></span> &amp; the <span id="c"><a href="https://crafty.gg" target="_blank">Crafty team</a></span> for their website.
-Needless to say, your boy is an average Minecraft enjoyer and a fellow Engi-main in cp_dustbowl. Just take a look at <span id="c"><a href="https://steamcommunity.com/id/a13sh81" target="_blank">my Steam profile!</a></span>
-Want to know me more? then let's be friends!
+Hello, I'm Ali, but you can call me Joony (I'd actually prefer calling me this). A regular person on the internet, hanging out with his friends on <span id="c" onclick="copyToClipboard('Joony#8242')">Discord</span> and having fun playing video games.
+Contributing to community projects is my passion. I voluntarily help with localizing websites and projects that I feel need to be used with wider range of users in my own language. Give my <span id="c"><a href="https://crowdin.com/profile/FDg81" target="_blank">Crowdin profile</a></span> a visit to see a list of my contribution.
+Needless to say, your boy is an average Minecraft enjoyer and a fellow Engi-main in cp_dustbowl. I'll be happy if you come to <span id="c"><a href="https://steamcommunity.com/id/a13sh81" target="_blank">my Steam profile</a></span> and say hello in the comments!
+Want to know me more? then let us be friends!
 &nbsp;
-<span id="a">\\Root\ATL-srg\ali-joon&gt;</span><span id="b"><!-- https://cdn.discordapp.com/attachments/476322512129622016/950712219581169674/Mazmaz-1.mp4 -->view prof.json</span>
+<span id="a">\\Root\ATL-srg\ali-joon&gt;</span><span id="b"><!-- https://cdn.discordapp.com/attachments/476322512129622016/950712219581169674/Mazmaz-1.mp4 | Also, if you've ever wondered what my avatar does refer to, it's the Cultist from EtD -->view prof.json</span>
 {
-    ProBot: "<span id="c">Translator & Supporter</span>",
-    Minecraft: "<span id="c">Proofreader</span>",
-    PreMiD: "<span id="c">Translator & Presence Developer</span>",
-    Crafty: "<span id="c">Writer & Tester</span>",
-    MemberCounterBot: "<span id="c">Translator</span>",
-    Lyon_SPD_YT: "<span id="c">Server Admin</span>",
-    22x5: "SaFoVAt ALlaMiAN"
+    ProBot: "<span id="c">Translator | Support Team</span>",
+    Minecraft: "<span id="c">Proofreader | Translator</span>",
+    PreMiD: "<span id="c">Translator | Presence Developer</span>",
+    Crafty: "<span id="c">Writer | Tester</span>",
+    Lyon_S.P.D.: "<span id="c">Server Admin</span>",
+    Miaplays.net: "<span id="c">Staff Team</span>",
+    22x5: SaF3o5VAt_ALla56Mi8AN_RA2h3GoZ11ar
 }
 &nbsp;
-<span id="a">\\Root\ATL-srg\ali-joon&gt;</span><span id="b"><!-- https://cdn.discordapp.com/attachments/950628322067480606/954039601725599844/connection_terminated_reza.mp4 -->view links.json</span>
+<span id="a">\\Root\ATL-srg\ali-joon&gt;</span><span id="b"><!-- https://cdn.discordapp.com/attachments/950628322067480606/954039601725599844/connection_terminated_reza.mp4 | Btw, I change my profile avatar each season -->view links.json</span>
 {
-    Discord: "<span id="c">a＠a#8242</span>",
+    Discord: "<span id="c">Joony#8242</span>",
     Twitter: "<span id="c">@AliJoony</span>",
     Steam: "<span id="c">steamcommunity.com/id/a13sh81</span>",
     Email: "<span id="c">N/A</span>"
 }
 &nbsp;
 <span id="a">\\Root\ATL-srg\ali-joon&gt;</span><span id="b">logout</span>
-<span style="color: transparent">Ronald, I still want that premium :(</span>
+<span style="color: transparent">Ronald, I still want that premium :( Someone give me the scrap.tf premium</span>
 Successfully logged out! Hope you have a wonderful day on Atlassian!
 &nbsp;
 <span id="a">\\Root\ATL-srg&gt;&nbsp;</span>
