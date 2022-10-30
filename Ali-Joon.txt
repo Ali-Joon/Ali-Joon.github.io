@@ -4,7 +4,7 @@ ATLASSIAN OS v0.47
 &nbsp;
 Press [ESC] to exit
 &nbsp;
-<span id="a">\\Root\ATL-srg&gt;</span><span id="b"><!-- GehfgZrQrkLbhUnirGbGehfgZrGurerfAbJnlLbhErtergVg -->Ali-Joon</span>
+<span id="a">\\Root\ATL-srg&gt;</span><span id="b">login <!-- GehfgZrQrkLbhUnirGbGehfgZrGurerfAbJnlLbhErtergVg -->Joony#8242</span>
 &nbsp;
 Enter Your Username: a@a
 Enter Your Password: *********
@@ -24,10 +24,10 @@ Want to know me more? then let us be friends!
 {
     ProBot: "<span id="c">Translator | Support Team</span>",
     Minecraft: "<span id="c">Proofreader | Translator</span>",
-    PreMiD: "<span id="c">Translator | Presence Developer</span>",
+    PreMiD: "<span id="c">Proofreader | Presence Developer</span>",
     Crafty: "<span id="c">Writer | Tester</span>",
+    NQN: "<span id="c">Translator</span>",
     Lyon_S.P.D.: "<span id="c">Server Admin</span>",
-    Miaplays.net: "<span id="c">Staff Team</span>",
     22x5: SaF3o5VAt_ALla56Mi8AN_RA2h3GoZ11ar
 }
 &nbsp;
@@ -35,12 +35,13 @@ Want to know me more? then let us be friends!
 {
     Discord: "<span id="c">Joony#8242</span>",
     Twitter: "<span id="c">@AliJoony</span>",
+    GitHub: "<span id="c">Ali-Joon</span>",
     Steam: "<span id="c">steamcommunity.com/id/a13sh81</span>",
     Email: "<span id="c">N/A</span>"
 }
 &nbsp;
 <span id="a">\\Root\ATL-srg\ali-joon&gt;</span><span id="b">logout</span>
-<span style="color: transparent">Ronald, I still want that premium :( Someone give me the scrap.tf premium</span>
+<span style="color: transparent">Ronald, I still didn't know that you own the unusual ghastly gibus O;</span>
 Successfully logged out! Hope you have a wonderful day on Atlassian!
 &nbsp;
 <span id="a">\\Root\ATL-srg&gt;&nbsp;</span>
