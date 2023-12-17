@@ -20,7 +20,7 @@ Contributing to community projects is my passion. I voluntarily help with locali
 Needless to say, your boy is an average Minecraft enjoyer and a fellow Engi-main in cp_dustbowl. I'll be happy if you come to <span id="c"><a href="https://steamcommunity.com/id/a13sh81" target="_blank">my Steam profile</a></span> and say hello in the comments!
 Want to know me more? then let us be friends!
 &nbsp;
-<span id="a">\\Root\ATL-srg\ali-joon&gt;</span><span id="b"><!-- https://cdn.discordapp.com/attachments/476322512129622016/950712219581169674/Mazmaz-1.mp4 | Also, if you've ever wondered what my avatar does refer to, it's the Cultist from EtD -->view prof.json</span>
+<span id="a">\\Root\ATL-srg\ali-joon&gt;</span><span id="b"><!-- https://cdn.discordapp.com/attachments/476322512129622016/950712219581169674/Mazmaz-1.mp4 | Also, if you've ever wondered what my avatar does refer to, it's the Cultist from EtD. Just sayin-->view prof.json</span>
 {
     ProBot: "<span id="c">Translator | Support Team</span>",
     Minecraft: "<span id="c">Proofreader | Translator</span>",
